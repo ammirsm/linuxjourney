@@ -1,31 +1,31 @@
-# History
+# تاریخچه
 
 ## Lesson Content
 
-Hey rookie! So you decided to dive into this wonderful world known as Linux? Well you better strap in, because it’s gonna be a long and hard road. My name is Penguin Pete and I’m here to guide you through this journey. Let’s get started with a little bit of backstory about Linux. 
+سلام رفیق! پس  تصمیم گرفته که وارد یه دنیای  باحال به اسم لینوکس شی؟ پس بهتره کمربندتو ببندی چون این راهی طولانیه و بعضی اوقات هم سخت! اسم من پنگوئن پته هست و من توی این سفر راهنماییت میکنم. بزار یکم درمورد قدمت و پیشینه ی لینوکس شروع کنیم.
 
-To learn about how Linux came to be, let’s go back to the beginning to 1969 where Ken Thompson and Dennis Ritchie of Bell Laboratories developed the UNIX operating system. It was later rewritten in C to make it more portable and eventually became a widely used operating system. 
+برای این‌که درباره این‌که بفهمیم لینوکس از کجا اومده باید بریم به سال ۱۹۶۹ وقتی که Ken Thompson و Dennis Ritchie توی آزمایشگاه‌های Bell در حال توسعه یه سیستم‌عامل به اسم UNIX به زبون C تا اون رو portable کنن و درنهایت تبدیلش کنن به یه سیستم‌عامل که همه جا استفاده میشه.
 
-A decade or so later, Richard Stallman started working on the GNU (GNU is Not UNIX) project, the GNU kernel called Hurd, which unfortunately never came to completion. The GNU General Public License (GPL), a free software license, was also created as a result of this.
+یک دهه بعد یا بیشتر، Richard Stallman شروع کرد به کار روی پروژه GNU و اینجا باید تاکید کنم که GNU همون UNIX نیست، اسم کرنل اون Hurd بود و متاسفانه اون هیچ موقع تکمیل نشد. The GNU General Public License (GPL) که یک مجوز آزاد نرم‌افزاری هست هم در راستای نتایج همین پروژه بود.
 
-The kernel is the most important piece in the operating system. It allows the hardware to talk to the software. It also does a whole lot of other things, but we’ll dig into that in a different course. For now, just know that the kernel controls pretty much everything that happens on your system. 
+کرنل یا هسته مهم‌ترین قسمت یک سیستم‌عامل است و اون به سخت‌افزار اجازه میده با نرم‌افزار حرف بزنه. اون همینطور کلی ‌کار‌های دیگه هم میکنه که الان اگه بخوایم ازش صحبت کنیم مارو به جای دیگه‌ای میبره! برای الان فقط اینو بدونین که کرنل همه‌ی اتفاقایی که روی سیستمتون میافته رو کنترل میکنه.
 
-During this time other efforts such as BSD, MINIX, etc were developed to be UNIX like-systems. However, one thing that all these UNIX like-systems had in common was the lack of a unified kernel. 
+توی این دوره‌ی زمانی BSDو MINIXو این چنین ها توسعه داده شدن تا یک‌سری سیسیتم شبهUNIX باشند. در هر حال همه‌ی این سیسیتم‌های شبهUNIX فقدان یک هسته یکپارچه را داشتند. 
 
-Then in 1991, a young fellow named Linus Torvalds started developing what we now know today as the Linux kernel.
+که در آخر توی سال 1991 یه آقای جوونی به اسم Linus Torvalds شروع کرد به توسعه دادن یزی که ما امروز اسمش رو کرنل یا هسته‌ی Linux گذاشتیم.
 
-## Exercise
 
-Additional reading:
-<li><a href='https://www.gnu.org/home.en.html'>GNU</a></li>
+## تمرین
+
+منابع بیشتر:
+‏<li><a href='https://www.gnu.org/home.en.html'>GNU</a></li>
 <li><a href='https://en.wikipedia.org/wiki/Ken_Thompson'>Ken Thompson</a></li>
 <li><a href='https://stallman.org/'>Richard Stallman</a></li>
 <li><a href='https://en.wikipedia.org/wiki/Linus_Torvalds'>Linus Torvalds</a></li>
 
-## Quiz Question
+‏## Quiz Question
 
-Who developed the Linux kernel? 
-
+جه کسی هسته‌ی لینوکس رو توسعه داد؟
 ## Quiz Answer
 
 Linus Torvalds
