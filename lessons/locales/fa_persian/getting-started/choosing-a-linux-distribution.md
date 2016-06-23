@@ -1,28 +1,30 @@
-# Choosing a Linux Distribution
+# انتخاب یک توزیع لینوکس
 
 ## Lesson Content
 
-In the previous lesson, we learned about the Linux kernel which powers millions of devices a day. One thing before we move forward, the term Linux is actually quite a misnomer, since it actually refers to the Linux kernel. However, many distributions use the Linux kernel so therefore are commonly known as Linux operating systems. 
+در جلسه قبل، ما یاد گرفتیم که کرنل لینوکس که به میلیون‌ها دستگاه در روز قدرت میده صحبت کردیم. یه چیز قبل از اینکه بریم جلو اینه که کلمه‌ی لینوکس رو ما در جای اشتباهی استفاده می‌کردیم و اون به هسته‌ی لینوکس اشاره میکنه. در هر صورت، تعداد زیادی از توزیع‌هایی که از هسته‌ی لینوکس استفاده می‌کنند رو به اسم سیستم‌عامل لینوکس عموما صدا می‌کنیم.
 
-A Linux system is divided into three main parts:
+یک سیستم لینوکسی به سه قسمت مجزا تقسیم میشه:
 
 <ul>
-<li>Hardware - This includes all the hardware that your system runs on as well as memory, CPU, disks, etc.</li>
-<li>Linux Kernel - As we discussed above, the kernel is the core of the operating system. It manages the hardware and tells it how to interact with the system.</li>
-<li>User Space - This is where users like yourself will be directly interacting with the system.</li>
+<li>سخت‌افزار - این قسمت شامل همه‌ی سخت‌افزارهایی که روی سیستم شما اجرا هستند می‌شود مثل حافظه و پردازشگر و دیسک‌سخت و از این قبیل.
+</li>
+<li>هسته‌ی لینوکس - همون‌طور که در بالا صحبت کردیم، هسته‌ی لینوکس مرکز اصلی سیستم‌عامل هست و وظیفه مدیریت سخت‌افزار و تعامل با سیستم رو برعهده داره.
+</li>
+<li>فضای‌کاربری - این قسمت هم جایی هست که کاربرانی مث خود شما به صورت مستقیم با سیستم تعامل می‌کنن.
+</li>
 </ul>
 
-So the first step we’ll need to take is to install Linux on your machine. You have many options to choose from and this course will help inform you and get you started on choosing a Linux distribution. 
+پس در اولین قدم ما نیاز به این داریم که یکی از توزیع‌ها رو انتخاب کنیم روی ماشینمون. شما انتخاب‌های خیلی زیادی رو دارید که توی این قسمت از سفر بهتون کمک می‌کنیم که یک انتخاب خوب داشته باشید.
 
+تعداد خیلی زیادی انتخاب پیش روی شما خواهد بود و ما این‌جا مشهورترین‌های آن‌ها رو مورد بررسی کوتاهی براتون قرار می‌دیم.
 There are many Linux distributions to choose from, we’ll just go over the most popular options. 
 
 
 ## Exercise
 
-No exercises for this lesson.
-
+چیزی نیست!
 ## Quiz Question
 
-No questions, skip ahead!
-
+سوالی نیست و برید جلو!
 ## Quiz Answer

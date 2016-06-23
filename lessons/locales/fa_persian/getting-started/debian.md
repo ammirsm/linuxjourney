@@ -2,29 +2,21 @@
 
 ## Lesson Content
 
-<b>Overview</b>
-Debian is an operating system composed entirely of free and open-source software. It’s widely known and has been in development for over 20 years. There are three branches that you can use, Stable, Testing and Unstable. 
+<b>چکیده</b>
+Debian  یک سیستم‌عامل که کاملا آزاد و متن‌باز هست. کاملا شناخته شده است و برای نزدیک به ۲۰ سال است که توسعه داده میشه و دارای سه ‌branch هست که نسخه های stable, teting و unstable هستن.
 
-Stable is an overall good branch to be on. Testing and Unstable are rolling releases. This means that any incremental changes in those branches will eventually become Stable. For example, if you wanted to get to the next update from Windows 8 to Windows 10, you’ll have to do a complete Windows 10 installation. However being on the Testing release, you’ll automatically get updates until it becomes the next operating system release without having to do a full installation. 
+نسخه stable به صورت کلی یک branch خوب می‌تونه باشه و دو  branch دیگه نقش در حال پخش رو بازی می‌کنند. این به این معنی هست که بعد از یک سری تغییرات و پیشرفت به نسخه ‌stable می‌رسیم. برای مسال
 
-<b>Package Management</b>
-Debian also uses Debian package management tools. Every Linux distribution installs and manages packages differently and they use different package management tools. We’ll get more into this in a later course. 
+<b>بسته‌های مدیر پکیج</b>
+دبیان همچنین از ابزارهای مدیر پکیج استفاده می‌کنند. همه‌ی دیستروهای لینوکسی که نصب می‌کنید به یک صورت خاص پکیج‌هاشون رو مدیریت می‌کنند و از ابزارهای مدیریت پکیج استفاده می‌کنند. توی یک قسمت جداگانه از اون‌ها یاد می‌کنیم.
 
-<b>Configurability</b>
-Debian may not get the latest updates, but it's extremely stable. If you want a good "core" operating system, this is the one for you.
+<b>تنظیمات</b>
+دبیان شاید آخرین آپدیت‌ها رو خیلی سریع نمی‌گیره اما به صورت کاملا پایداره! اگر می‌خواید یه هسته سیستم عاملی خوب داشته باشید، این ممکنه خیلی خوب واسه شما باشه.
 
-<b>Uses</b>
-Debian is an overall great operating system for any platform.
+<b>استفاده‌ها</b>
+دبیان یه سیستم‌عامل واقعا خوب برای همه‌ی پلتفرم ها هست.
 
 
 ## Exercise
 
-If you're interested in having Debian as your operating system, head over to the installation section and give it a try: <a href='https://www.debian.org/'>https://www.debian.org/</a>
-
-## Quiz Question
-
-What kind of release does Testing and Unstable have? 
-
-## Quiz Answer
-
-Rolling
+اگر از دبیان خوشتون اومد می‌تونید گام‌های نصبش رو از سایت خودش در اینجا ببینید: <a href='https://www.debian.org/'>https://www.debian.org/</a>
